@@ -89,7 +89,7 @@
   
 ## Important choises
 
-* Due to time constraints, I decided not to include any tests for the project. Initially, I wasn't planning on submitting the assessment because I lacked time for learning about the required technologies for the assignment. However, something changed on April 17th, and I felt motivated to start working on the solution. As the task doesn't require a perfect solution, I believe it's acceptable to skip the tests for now to submit the solution as soon as possible, escpecially because I've already missed the deadline.
+* Due to time constraints, I decided not to include any tests for the project. Initially, I wasn't planning on submitting the assignment because I lacked time for learning about the required technologies for the assignment. However, something changed on April 17th, and I felt motivated to start working on the solution. As the task doesn't require a perfect solution, I believe it's acceptable to skip the tests for now to submit the solution as soon as possible, escpecially because I've already missed the deadline.
 
 ## Horizontal scaling
 * Firstly, horizontal scaling requires a change in an application logic. 
