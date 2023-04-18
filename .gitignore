@@ -1,0 +1,38 @@
+tuumBanking/HELP.md
+tuumBanking/.gradle
+tuumBanking/build/
+tuumBanking/!gradle/wrapper/gradle-wrapper.jar
+tuumBanking/!**/src/main/**/build/
+tuumBanking/!**/src/test/**/build/
+
+### STS ###
+tuumBanking/.apt_generated
+tuumBanking/.classpath
+tuumBanking/.factorypath
+tuumBanking/.project
+tuumBanking/.settings
+tuumBanking/.springBeans
+tuumBanking/.sts4-cache
+tuumBanking/bin/
+tuumBanking/!**/src/main/**/bin/
+tuumBanking/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+tuumBanking/.idea
+tuumBanking/*.iws
+tuumBanking/*.iml
+tuumBanking/*.ipr
+tuumBanking/out/
+tuumBanking/!**/src/main/**/out/
+tuumBanking/!**/src/test/**/out/
+
+### NetBeans ###
+tuumBanking/nbproject/private/
+tuumBanking/nbbuild/
+tuumBanking/dist/
+tuumBanking/nbdist/
+tuumBanking/.nb-gradle/
+
+### VS Code ###
+tuumBanking/.vscode/
+.vscode/
