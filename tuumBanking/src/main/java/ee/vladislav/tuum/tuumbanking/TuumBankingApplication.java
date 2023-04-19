@@ -15,8 +15,6 @@ import org.springframework.core.env.Environment;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
-//@SpringBootApplication
-//@EnableRabbit
 @SpringBootApplication(scanBasePackages = "ee.vladislav.*")
 public class TuumBankingApplication {
 	@Autowired
