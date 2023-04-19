@@ -17,8 +17,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-//import ee.vladislav.tuum.tuumbanking.rabbitMQ.RabbitMQSender;
-
 @Service
 public class AccountService {
 
