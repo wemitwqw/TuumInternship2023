@@ -3,8 +3,8 @@
 ## Prerequisites
 
 * Java 17
-* Gradle
-* Docker
+* Gradle 7.6.1
+* Docker 20
 
 ## Running the project
 
